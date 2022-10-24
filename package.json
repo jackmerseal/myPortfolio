@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
+  "engines": {
+    "node": "16.18.0"
+  },
   "scripts": {
     "eslint": "npx eslint",
     "stylelint": "npx stylelint '**/*.css'",
